@@ -1,0 +1,19 @@
+/* id selector -> #id, 클래스는 같은 이름 여러개 존재가능(grouping), 아이디는 하나만*/
+.detailDiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.detailDiv div {
+    width: 20%;
+    margin-bottom: 1.5rem;
+}
+
+.detailDiv p {
+    width: 80%;
+}
+
+.detailDiv img {
+    border-radius: 50%;
+}
