@@ -1,0 +1,19 @@
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.row > div {
+    border: solid 1px black;
+    width: 100px;
+    height: 100px;
+    padding: 0px;
+    margin: 0px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+
+}
