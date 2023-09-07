@@ -1,0 +1,31 @@
+thead {
+    background-color: #CEE3F6;
+}
+
+.right {
+    text-align: right;
+}
+
+.num{
+    display: inline-flex;
+    justify-content: right;
+    align-items: center;
+    width: 100%;
+}
+
+.rankimg {
+    margin-right: 0.5rem;
+    font-size: 0.65rem;
+    padding: 0;
+}
+
+tbody > tr:nth-child(2n){
+    background-color: #FAFAFA;
+}
+
+footer .detail div {
+    background-color: white;
+    padding: 1rem;
+    color: black;
+    
+}
