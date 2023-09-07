@@ -8,3 +8,7 @@
 + 09.05 : 문자열 다루기
 + 09.07 : 폭탄게임
 + 09.07 : 일일 박스오피스
+
+
+## Ref.
+- 일일 박스오피스 데이터 : [영화진흥위원회 오픈API](https://www.kobis.or.kr/kobisopenapi/homepg/main/main.do)
