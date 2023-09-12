@@ -1,0 +1,13 @@
+.h2Sel1{
+    font-weight: bold;
+    color: red;
+}
+
+table thead tr th {
+    text-align: center;
+    font-weight: bold;
+}
+
+table tbody tr td {
+    text-align: center;
+}
