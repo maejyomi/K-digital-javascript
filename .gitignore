@@ -1,5 +1,14 @@
-# Created by https://www.toptal.com/developers/gitignore/api/windows,linux,macos,visualstudiocode
-# Edit at https://www.toptal.com/developers/gitignore?templates=windows,linux,macos,visualstudiocode
+# Created by https://www.toptal.com/developers/gitignore/api/windows,macos,linux,firebase,visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,linux,firebase,visualstudiocode
+
+### Firebase ###
+.idea
+**/node_modules/*
+**/.firebaserc
+
+### Firebase Patch ###
+.runtimeconfig.json
+.firebase/
 
 ### Linux ###
 *~
@@ -94,4 +103,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,visualstudiocode
+# End of https://www.toptal.com/developers/gitignore/api/windows,macos,linux,firebase,visualstudiocode
